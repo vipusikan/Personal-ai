@@ -1,0 +1,11 @@
+id,topic,difficulty,question,A,B,C,D,answer
+1,SDLC,1,SDLC stands for?,Software Development Life Cycle,System Design Life Cycle,Software Debug Life Cycle,None,A
+2,Agile Model,1,Agile model is?,Iterative,Linear,None,None,A
+3,Scrum,1,Scrum is?,Agile framework,Programming language,None,None,A
+4,UML,1,UML stands for?,Unified Modeling Language,Universal Machine Language,None,None,A
+5,Software Testing,1,Testing is used to?,Find defects,Write code,None,None,A
+6,Unit Testing,1,Unit testing tests?,Individual components,Entire system,None,None,A
+7,Integration Testing,1,Integration testing tests?,Combined modules,Single module,None,None,A
+8,System Testing,1,System testing tests?,Complete system,Single unit,None,None,A
+9,Version Control,1,Git is?,Version control system,Programming language,None,None,A
+10,Software Maintenance,1,Maintenance is done?,After deployment,Before coding,None,None,A

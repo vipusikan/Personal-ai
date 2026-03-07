@@ -1,0 +1,19 @@
+topic,type,title,url
+SDLC,Blog,SDLC Overview (GeeksforGeeks),https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
+SDLC,Video,SDLC Explained (YouTube search),https://www.youtube.com/results?search_query=SDLC+explained
+Agile Model,Blog,Agile Overview (Atlassian),https://www.atlassian.com/agile
+Agile Model,Video,Agile Tutorial (YouTube search),https://www.youtube.com/results?search_query=agile+software+development+tutorial
+Scrum,Docs,The Scrum Guide (Official),https://scrumguides.org/
+Scrum,Video,Scrum Basics (YouTube search),https://www.youtube.com/results?search_query=scrum+basics
+UML,Blog,UML Guide (Visual Paradigm),https://www.visual-paradigm.com/guide/uml-unified-modeling-language/
+UML,Video,UML Tutorial (YouTube search),https://www.youtube.com/results?search_query=uml+tutorial
+Use Case Diagram,Blog,Use Case Diagram (Lucidchart),https://www.lucidchart.com/pages/uml-use-case-diagram
+Class Diagram,Blog,Class Diagram (Lucidchart),https://www.lucidchart.com/pages/uml-class-diagram
+Sequence Diagram,Blog,Sequence Diagram (Lucidchart),https://www.lucidchart.com/pages/uml-sequence-diagram
+Software Testing,Blog,Software Testing (Guru99),https://www.guru99.com/software-testing.html
+Unit Testing,Blog,Unit Testing (Martin Fowler),https://martinfowler.com/bliki/UnitTest.html
+Integration Testing,Blog,Integration Testing (Guru99),https://www.guru99.com/integration-testing.html
+System Testing,Blog,System Testing (Guru99),https://www.guru99.com/system-testing.html
+Version Control,Docs,Git Handbook (GitHub),https://guides.github.com/introduction/git-handbook/
+Version Control,Video,Git Tutorial (YouTube search),https://www.youtube.com/results?search_query=git+tutorial+for+beginners
+Software Maintenance,Blog,Software Maintenance (GeeksforGeeks),https://www.geeksforgeeks.org/software-maintenance/

@@ -1,0 +1,521 @@
+id,topic,difficulty,question,A,B,C,D,answer
+1,SDLC,1,What best describes SDLC?,UML,Software Development Life Cycle,Software Testing,User interface theme,B
+2,SDLC,2,The main purpose of SDLC is to:,"requirements, design, implementation, testing, deployment, maintenance",Software Testing,Version Control,Random guessing,A
+3,SDLC,1,Which term is most related to SDLC?,Version Control,Bluetooth protocol,implementation,Sequence Diagram,C
+4,SDLC,2,What best describes SDLC?,Bluetooth protocol,System Testing,Integration Testing,Software Development Life Cycle,D
+5,SDLC,2,Which term is most related to SDLC?,Use Case Diagram,Unit Testing,design,Version Control,C
+6,SDLC,1,The main purpose of SDLC is to:,Unit Testing,Email SMTP,Scrum,"requirements, design, implementation, testing, deployment, maintenance",D
+7,SDLC,2,The main purpose of SDLC is to:,Software Maintenance,Software Development Life Cycle,Email SMTP,Bluetooth protocol,B
+8,SDLC,2,Which concept belongs to SDLC?,Agile,Cooking recipe,Random guessing,Hardware installation,A
+9,SDLC,3,Which concept belongs to SDLC?,Cooking recipe,Scrum,Software Testing,Agile,D
+10,SDLC,1,The main purpose of SDLC is to:,Scrum,Hardware installation,Cooking recipe,"requirements, design, implementation, testing, deployment, maintenance",D
+11,SDLC,2,Which is NOT related to SDLC?,deployment,Not related,Waterfall,design,B
+12,SDLC,2,Which concept belongs to SDLC?,Incremental,Network routing,User interface theme,Database normalization only,A
+13,SDLC,1,Which term is most related to SDLC?,Version Control,implementation,Network routing,UML,B
+14,SDLC,1,The main purpose of SDLC is to:,User interface theme,"requirements, design, implementation, testing, deployment, maintenance",Network routing,Software Testing,B
+15,SDLC,2,Which term is most related to SDLC?,Class Diagram,Software Testing,Cooking recipe,requirements,D
+16,SDLC,2,Which term is most related to SDLC?,Random guessing,maintenance,Use Case Diagram,System Testing,B
+17,SDLC,2,Which term is most related to SDLC?,deployment,Database normalization only,Unit Testing,Sequence Diagram,A
+18,SDLC,3,The main purpose of SDLC is to:,Sequence Diagram,Hardware installation,CPU scheduling,Software Development Life Cycle,D
+19,SDLC,2,Which is NOT related to SDLC?,Spiral,Agile,design,Not related,D
+20,SDLC,1,What best describes SDLC?,Bluetooth protocol,Software Development Life Cycle,Agile Model,UML,B
+21,SDLC,2,The main purpose of SDLC is to:,Database normalization only,Software Development Life Cycle,Agile Model,Bluetooth protocol,B
+22,SDLC,2,The main purpose of SDLC is to:,Scrum,Sequence Diagram,Integration Testing,"requirements, design, implementation, testing, deployment, maintenance",D
+23,SDLC,1,Which is NOT related to SDLC?,requirements,Not related,maintenance,Spiral,B
+24,SDLC,1,What best describes SDLC?,Software Development Life Cycle,Scrum,Random guessing,Class Diagram,A
+25,SDLC,2,Which term is most related to SDLC?,Database normalization only,Cooking recipe,Unit Testing,requirements,D
+26,SDLC,2,Which term is most related to SDLC?,Agile Model,Database normalization only,Bluetooth protocol,maintenance,D
+27,SDLC,2,Which term is most related to SDLC?,implementation,Database normalization only,Class Diagram,Software Testing,A
+28,SDLC,1,The main purpose of SDLC is to:,Version Control,Hardware installation,Email SMTP,"requirements, design, implementation, testing, deployment, maintenance",D
+29,SDLC,1,Which term is most related to SDLC?,UML,implementation,Integration Testing,System Testing,B
+30,SDLC,2,What best describes SDLC?,Bluetooth protocol,Integration Testing,Agile Model,Software Development Life Cycle,D
+31,SDLC,3,Which is NOT related to SDLC?,Waterfall,maintenance,Not related,testing,C
+32,SDLC,2,What best describes SDLC?,Agile Model,Integration Testing,Bluetooth protocol,Software Development Life Cycle,D
+33,SDLC,2,The main purpose of SDLC is to:,Email SMTP,Sequence Diagram,User interface theme,"requirements, design, implementation, testing, deployment, maintenance",D
+34,SDLC,1,Which term is most related to SDLC?,Agile Model,Database normalization only,implementation,DNS resolution,C
+35,SDLC,2,What best describes SDLC?,Hardware installation,Software Development Life Cycle,Software Maintenance,Scrum,B
+36,SDLC,2,The main purpose of SDLC is to:,Software Maintenance,Hardware installation,Unit Testing,"requirements, design, implementation, testing, deployment, maintenance",D
+37,SDLC,3,Which is NOT related to SDLC?,implementation,maintenance,Incremental,Not related,D
+38,SDLC,2,Which term is most related to SDLC?,User interface theme,Cooking recipe,Software Maintenance,requirements,D
+39,SDLC,2,Which term is most related to SDLC?,Class Diagram,Software Testing,DNS resolution,maintenance,D
+40,SDLC,1,Which is NOT related to SDLC?,Not related,testing,design,Agile,A
+41,Agile Model,2,What best describes Agile Model?,iterative and incremental,Hardware installation,Use Case Diagram,Random guessing,A
+42,Agile Model,2,Which term is most related to Agile Model?,Bluetooth protocol,sprint,SDLC,System Testing,B
+43,Agile Model,2,The main purpose of Agile Model is to:,Use Case Diagram,Cooking recipe,responding to change,Class Diagram,C
+44,Agile Model,2,What best describes Agile Model?,iterative and incremental,Version Control,System Testing,CPU scheduling,A
+45,Agile Model,2,Which term is most related to Agile Model?,Software Testing,standup,Hardware installation,User interface theme,B
+46,Agile Model,3,Which term is most related to Agile Model?,Network routing,sprint,Hardware installation,DNS resolution,B
+47,Agile Model,2,Which concept belongs to Agile Model?,Scrum,CPU scheduling,Software Maintenance,UML,A
+48,Agile Model,1,What best describes Agile Model?,Scrum,Network routing,iterative and incremental,Integration Testing,C
+49,Agile Model,2,Which is NOT related to Agile Model?,Not related,standup,XP,retrospective,A
+50,Agile Model,2,What best describes Agile Model?,Database normalization only,SDLC,iterative and incremental,UML,C
+51,Agile Model,2,The main purpose of Agile Model is to:,DNS resolution,Sequence Diagram,frequent delivery,Unit Testing,C
+52,Agile Model,1,Which concept belongs to Agile Model?,Scrum,DNS resolution,Scrum,Bluetooth protocol,A
+53,Agile Model,3,What best describes Agile Model?,UML,iterative and incremental,Scrum,Network routing,B
+54,Agile Model,2,What best describes Agile Model?,iterative and incremental,Random guessing,Software Maintenance,Cooking recipe,A
+55,Agile Model,2,Which term is most related to Agile Model?,Scrum,Bluetooth protocol,standup,Random guessing,C
+56,Agile Model,2,Which concept belongs to Agile Model?,XP,Sequence Diagram,UML,Email SMTP,A
+57,Agile Model,1,What best describes Agile Model?,iterative and incremental,Use Case Diagram,Version Control,Cooking recipe,A
+58,Agile Model,2,Which is NOT related to Agile Model?,Not related,retrospective,sprint,Scrum,A
+59,Agile Model,2,Which concept belongs to Agile Model?,Kanban,Random guessing,UML,Sequence Diagram,A
+60,Agile Model,3,Which term is most related to Agile Model?,Software Maintenance,Bluetooth protocol,retrospective,Use Case Diagram,C
+61,Agile Model,2,The main purpose of Agile Model is to:,Scrum,Version Control,Network routing,frequent delivery,D
+62,Agile Model,2,The main purpose of Agile Model is to:,Cooking recipe,Email SMTP,Random guessing,iterative and incremental,D
+63,Agile Model,1,What best describes Agile Model?,SDLC,iterative and incremental,DNS resolution,Database normalization only,B
+64,Agile Model,1,The main purpose of Agile Model is to:,UML,frequent delivery,Sequence Diagram,Cooking recipe,B
+65,Agile Model,2,Which term is most related to Agile Model?,increment,Software Testing,Use Case Diagram,UML,A
+66,Agile Model,1,The main purpose of Agile Model is to:,User interface theme,Scrum,DNS resolution,frequent delivery,D
+67,Agile Model,2,Which is NOT related to Agile Model?,XP,standup,Not related,increment,C
+68,Agile Model,1,Which is NOT related to Agile Model?,Not related,retrospective,review,backlog,A
+69,Agile Model,1,Which is NOT related to Agile Model?,backlog,Scrum,Not related,standup,C
+70,Agile Model,1,Which term is most related to Agile Model?,Software Testing,Version Control,sprint,System Testing,C
+71,Agile Model,2,Which is NOT related to Agile Model?,retrospective,Not related,review,Scrum,B
+72,Agile Model,3,Which concept belongs to Agile Model?,Random guessing,Unit Testing,DNS resolution,Scrum,D
+73,Agile Model,2,Which is NOT related to Agile Model?,increment,Not related,retrospective,review,B
+74,Agile Model,1,Which term is most related to Agile Model?,Software Maintenance,standup,Network routing,Scrum,B
+75,Agile Model,2,Which concept belongs to Agile Model?,CPU scheduling,Database normalization only,Scrum,Version Control,C
+76,Agile Model,2,The main purpose of Agile Model is to:,Use Case Diagram,Network routing,frequent delivery,Software Maintenance,C
+77,Agile Model,3,The main purpose of Agile Model is to:,UML,DNS resolution,Use Case Diagram,responding to change,D
+78,Agile Model,1,Which term is most related to Agile Model?,User interface theme,UML,Unit Testing,backlog,D
+79,Agile Model,2,Which term is most related to Agile Model?,review,Bluetooth protocol,UML,CPU scheduling,A
+80,Agile Model,3,Which concept belongs to Agile Model?,Kanban,Bluetooth protocol,Random guessing,Email SMTP,A
+81,Scrum,1,What best describes Scrum?,Hardware installation,Class Diagram,framework with sprints,CPU scheduling,C
+82,Scrum,1,What best describes Scrum?,framework with sprints,Agile Model,Email SMTP,Software Testing,A
+83,Scrum,2,Which term is most related to Scrum?,Agile Model,Cooking recipe,Product Backlog,Sequence Diagram,C
+84,Scrum,2,The main purpose of Scrum is to:,UML,Bluetooth protocol,framework with sprints,Software Testing,C
+85,Scrum,2,Which concept belongs to Scrum?,Sequence Diagram,Hardware installation,Version Control,Backlog,D
+86,Scrum,1,Which is NOT related to Scrum?,Sprint,Sprint Planning,Backlog,Not related,D
+87,Scrum,3,Which term is most related to Scrum?,System Testing,Class Diagram,Review,Database normalization only,C
+88,Scrum,1,What best describes Scrum?,framework with sprints,Sequence Diagram,Hardware installation,Agile Model,A
+89,Scrum,3,Which concept belongs to Scrum?,Sequence Diagram,CPU scheduling,Agile Model,DoD,D
+90,Scrum,2,Which term is most related to Scrum?,SDLC,Software Testing,Use Case Diagram,Retrospective,D
+91,Scrum,3,Which term is most related to Scrum?,Unit Testing,Product Backlog,SDLC,Sequence Diagram,B
+92,Scrum,2,Which concept belongs to Scrum?,DoD,Database normalization only,Use Case Diagram,Email SMTP,A
+93,Scrum,2,Which term is most related to Scrum?,Sprint Backlog,Bluetooth protocol,Email SMTP,Network routing,A
+94,Scrum,3,What best describes Scrum?,Integration Testing,Version Control,framework with sprints,User interface theme,C
+95,Scrum,1,What best describes Scrum?,framework with sprints,Agile Model,DNS resolution,System Testing,A
+96,Scrum,2,Which concept belongs to Scrum?,Cooking recipe,Sprint,Sequence Diagram,Hardware installation,B
+97,Scrum,2,What best describes Scrum?,Software Testing,Class Diagram,DNS resolution,framework with sprints,D
+98,Scrum,1,Which concept belongs to Scrum?,Unit Testing,Software Testing,Random guessing,DoD,D
+99,Scrum,1,Which concept belongs to Scrum?,User interface theme,Use Case Diagram,Backlog,Software Maintenance,C
+100,Scrum,3,Which concept belongs to Scrum?,Hardware installation,DoD,Software Testing,UML,B
+101,Scrum,2,Which term is most related to Scrum?,System Testing,Class Diagram,Integration Testing,Product Backlog,D
+102,Scrum,2,Which is NOT related to Scrum?,Review,DoD,Retrospective,Not related,D
+103,Scrum,2,Which is NOT related to Scrum?,DoD,Review,Not related,Retrospective,C
+104,Scrum,1,Which concept belongs to Scrum?,Cooking recipe,DoD,CPU scheduling,Use Case Diagram,B
+105,Scrum,2,The main purpose of Scrum is to:,"roles: Product Owner, Scrum Master, Developers",Database normalization only,User interface theme,System Testing,A
+106,Scrum,3,Which term is most related to Scrum?,Random guessing,Sequence Diagram,Software Testing,Daily Scrum,D
+107,Scrum,1,The main purpose of Scrum is to:,Database normalization only,User interface theme,Use Case Diagram,framework with sprints,D
+108,Scrum,2,Which concept belongs to Scrum?,Unit Testing,System Testing,DoD,Bluetooth protocol,C
+109,Scrum,1,Which term is most related to Scrum?,Unit Testing,Database normalization only,Increment,Version Control,C
+110,Scrum,1,The main purpose of Scrum is to:,framework with sprints,Email SMTP,SDLC,Database normalization only,A
+111,Scrum,2,The main purpose of Scrum is to:,Software Maintenance,Random guessing,framework with sprints,SDLC,C
+112,Scrum,3,What best describes Scrum?,User interface theme,framework with sprints,System Testing,Bluetooth protocol,B
+113,Scrum,2,Which concept belongs to Scrum?,DoD,Software Testing,Integration Testing,Cooking recipe,A
+114,Scrum,3,Which is NOT related to Scrum?,Backlog,Product Backlog,Not related,Retrospective,C
+115,Scrum,1,What best describes Scrum?,framework with sprints,Random guessing,Integration Testing,UML,A
+116,Scrum,2,Which term is most related to Scrum?,Use Case Diagram,UML,User interface theme,Sprint Planning,D
+117,Scrum,2,Which term is most related to Scrum?,CPU scheduling,Email SMTP,Agile Model,Sprint Backlog,D
+118,Scrum,2,Which concept belongs to Scrum?,Class Diagram,Unit Testing,Sprint,Network routing,C
+119,Scrum,2,Which is NOT related to Scrum?,Increment,DoD,Not related,Daily Scrum,C
+120,Scrum,1,What best describes Scrum?,SDLC,User interface theme,DNS resolution,framework with sprints,D
+121,UML,1,Which is NOT related to UML?,Not related,diagrams,structural,behavioral,A
+122,UML,1,Which concept belongs to UML?,Email SMTP,Network routing,Class,Agile Model,C
+123,UML,3,Which is NOT related to UML?,diagrams,Not related,behavioral,Sequence,B
+124,UML,2,Which is NOT related to UML?,Not related,model,Use Case,behavioral,A
+125,UML,2,Which is NOT related to UML?,Not related,Activity,Sequence,Class,A
+126,UML,3,Which concept belongs to UML?,DNS resolution,Sequence,SDLC,Random guessing,B
+127,UML,1,What best describes UML?,Unified Modeling Language,Cooking recipe,Software Maintenance,Version Control,A
+128,UML,2,Which is NOT related to UML?,Activity,Not related,structural,Sequence,B
+129,UML,1,The main purpose of UML is to:,Use Case Diagram,User interface theme,Unified Modeling Language,Unit Testing,C
+130,UML,2,Which concept belongs to UML?,Version Control,Software Testing,Sequence,SDLC,C
+131,UML,1,Which term is most related to UML?,User interface theme,Bluetooth protocol,Sequence Diagram,behavioral,D
+132,UML,1,Which term is most related to UML?,Use Case Diagram,Cooking recipe,Agile Model,structural,D
+133,UML,1,Which term is most related to UML?,SDLC,Version Control,structural,Software Testing,C
+134,UML,1,The main purpose of UML is to:,Class Diagram,standard modeling language,Sequence Diagram,System Testing,B
+135,UML,1,Which is NOT related to UML?,model,Not related,Sequence,behavioral,B
+136,UML,2,Which is NOT related to UML?,Activity,Use Case,Sequence,Not related,D
+137,UML,3,What best describes UML?,Software Maintenance,Unified Modeling Language,Hardware installation,Version Control,B
+138,UML,1,Which is NOT related to UML?,Class,Sequence,Not related,Use Case,C
+139,UML,2,The main purpose of UML is to:,standard modeling language,Network routing,Cooking recipe,DNS resolution,A
+140,UML,2,The main purpose of UML is to:,Version Control,standard modeling language,Database normalization only,Bluetooth protocol,B
+141,UML,1,The main purpose of UML is to:,Random guessing,User interface theme,standard modeling language,CPU scheduling,C
+142,UML,2,Which concept belongs to UML?,Network routing,DNS resolution,Activity,Database normalization only,C
+143,UML,3,What best describes UML?,Use Case Diagram,CPU scheduling,Unified Modeling Language,Software Testing,C
+144,UML,3,What best describes UML?,Unified Modeling Language,Class Diagram,Software Maintenance,Sequence Diagram,A
+145,UML,2,Which term is most related to UML?,structural,Unit Testing,Email SMTP,CPU scheduling,A
+146,UML,2,What best describes UML?,CPU scheduling,Unified Modeling Language,Bluetooth protocol,DNS resolution,B
+147,UML,2,Which term is most related to UML?,Sequence Diagram,Unit Testing,structural,Random guessing,C
+148,UML,1,Which is NOT related to UML?,Class,Not related,behavioral,Use Case,B
+149,UML,2,Which term is most related to UML?,Use Case Diagram,structural,Bluetooth protocol,Email SMTP,B
+150,UML,1,Which term is most related to UML?,CPU scheduling,Sequence Diagram,Database normalization only,behavioral,D
+151,UML,1,Which concept belongs to UML?,DNS resolution,Use Case,Software Maintenance,Class Diagram,B
+152,UML,3,Which term is most related to UML?,diagrams,Database normalization only,Class Diagram,Sequence Diagram,A
+153,UML,1,The main purpose of UML is to:,Software Testing,Unified Modeling Language,Scrum,Database normalization only,B
+154,UML,3,The main purpose of UML is to:,Random guessing,Integration Testing,Sequence Diagram,Unified Modeling Language,D
+155,UML,1,Which concept belongs to UML?,Database normalization only,Activity,Software Testing,Scrum,B
+156,UML,2,The main purpose of UML is to:,Random guessing,Email SMTP,SDLC,standard modeling language,D
+157,UML,2,Which is NOT related to UML?,diagrams,Activity,Not related,structural,C
+158,UML,3,Which concept belongs to UML?,Database normalization only,Activity,Version Control,Email SMTP,B
+159,UML,1,What best describes UML?,Software Maintenance,Integration Testing,Random guessing,Unified Modeling Language,D
+160,UML,3,Which term is most related to UML?,DNS resolution,Bluetooth protocol,behavioral,Database normalization only,C
+161,Use Case Diagram,1,Which term is most related to Use Case Diagram?,system boundary,UML,Database normalization only,CPU scheduling,A
+162,Use Case Diagram,1,The main purpose of Use Case Diagram is to:,SDLC,Class Diagram,Scrum,actors and use cases,D
+163,Use Case Diagram,3,What best describes Use Case Diagram?,SDLC,Sequence Diagram,Integration Testing,actors and use cases,D
+164,Use Case Diagram,1,Which term is most related to Use Case Diagram?,system boundary,Agile Model,Network routing,Software Testing,A
+165,Use Case Diagram,3,Which term is most related to Use Case Diagram?,CPU scheduling,Integration Testing,User interface theme,extend,D
+166,Use Case Diagram,1,The main purpose of Use Case Diagram is to:,Email SMTP,SDLC,functional requirements,CPU scheduling,C
+167,Use Case Diagram,2,What best describes Use Case Diagram?,System Testing,Network routing,Random guessing,actors and use cases,D
+168,Use Case Diagram,2,The main purpose of Use Case Diagram is to:,Integration Testing,Sequence Diagram,UML,actors and use cases,D
+169,Use Case Diagram,1,Which is NOT related to Use Case Diagram?,Not related,actor,include,generalization,A
+170,Use Case Diagram,3,What best describes Use Case Diagram?,SDLC,Cooking recipe,actors and use cases,UML,C
+171,Use Case Diagram,2,The main purpose of Use Case Diagram is to:,Sequence Diagram,functional requirements,Random guessing,User interface theme,B
+172,Use Case Diagram,3,What best describes Use Case Diagram?,actors and use cases,DNS resolution,Integration Testing,Scrum,A
+173,Use Case Diagram,3,Which concept belongs to Use Case Diagram?,Class Diagram,Database normalization only,Network routing,extend,D
+174,Use Case Diagram,3,Which concept belongs to Use Case Diagram?,generalization,Class Diagram,UML,Database normalization only,A
+175,Use Case Diagram,2,Which concept belongs to Use Case Diagram?,UML,generalization,Software Testing,User interface theme,B
+176,Use Case Diagram,1,Which term is most related to Use Case Diagram?,use case,Cooking recipe,Email SMTP,User interface theme,A
+177,Use Case Diagram,3,Which term is most related to Use Case Diagram?,actor,Integration Testing,System Testing,Version Control,A
+178,Use Case Diagram,2,Which concept belongs to Use Case Diagram?,Version Control,generalization,Agile Model,Integration Testing,B
+179,Use Case Diagram,3,Which concept belongs to Use Case Diagram?,Unit Testing,Cooking recipe,include,Bluetooth protocol,C
+180,Use Case Diagram,2,Which term is most related to Use Case Diagram?,Unit Testing,Class Diagram,actor,Random guessing,C
+181,Use Case Diagram,2,Which term is most related to Use Case Diagram?,Class Diagram,UML,extend,SDLC,C
+182,Use Case Diagram,1,Which is NOT related to Use Case Diagram?,actor,Not related,extend,include,B
+183,Use Case Diagram,3,Which concept belongs to Use Case Diagram?,Software Testing,generalization,UML,Class Diagram,B
+184,Use Case Diagram,1,Which concept belongs to Use Case Diagram?,System Testing,DNS resolution,Network routing,include,D
+185,Use Case Diagram,1,The main purpose of Use Case Diagram is to:,DNS resolution,User interface theme,functional requirements,Version Control,C
+186,Use Case Diagram,2,The main purpose of Use Case Diagram is to:,Version Control,actors and use cases,Scrum,Bluetooth protocol,B
+187,Use Case Diagram,1,What best describes Use Case Diagram?,actors and use cases,Scrum,Integration Testing,Software Testing,A
+188,Use Case Diagram,2,Which concept belongs to Use Case Diagram?,User interface theme,UML,include,DNS resolution,C
+189,Use Case Diagram,3,The main purpose of Use Case Diagram is to:,Version Control,Scrum,Software Maintenance,functional requirements,D
+190,Use Case Diagram,1,Which is NOT related to Use Case Diagram?,use case,Not related,system boundary,actor,B
+191,Use Case Diagram,3,Which concept belongs to Use Case Diagram?,Unit Testing,extend,CPU scheduling,Software Testing,B
+192,Use Case Diagram,2,Which concept belongs to Use Case Diagram?,generalization,CPU scheduling,Class Diagram,Bluetooth protocol,A
+193,Use Case Diagram,1,The main purpose of Use Case Diagram is to:,Software Testing,actors and use cases,Version Control,Agile Model,B
+194,Use Case Diagram,2,Which term is most related to Use Case Diagram?,use case,System Testing,Integration Testing,User interface theme,A
+195,Use Case Diagram,1,Which is NOT related to Use Case Diagram?,extend,include,Not related,generalization,C
+196,Use Case Diagram,2,Which term is most related to Use Case Diagram?,use case,Email SMTP,Integration Testing,Software Testing,A
+197,Use Case Diagram,3,Which is NOT related to Use Case Diagram?,extend,Not related,actor,use case,B
+198,Use Case Diagram,2,What best describes Use Case Diagram?,Software Maintenance,Class Diagram,actors and use cases,Software Testing,C
+199,Use Case Diagram,1,Which concept belongs to Use Case Diagram?,System Testing,generalization,Software Maintenance,Integration Testing,B
+200,Use Case Diagram,2,Which concept belongs to Use Case Diagram?,Random guessing,Class Diagram,include,Software Testing,C
+201,Class Diagram,2,Which term is most related to Class Diagram?,Bluetooth protocol,association,UML,Unit Testing,B
+202,Class Diagram,2,The main purpose of Class Diagram is to:,UML,attributes and methods,Database normalization only,Email SMTP,B
+203,Class Diagram,2,Which is NOT related to Class Diagram?,Not related,association,multiplicity,composition,A
+204,Class Diagram,1,Which term is most related to Class Diagram?,SDLC,composition,Hardware installation,Network routing,B
+205,Class Diagram,3,Which is NOT related to Class Diagram?,multiplicity,Not related,aggregation,generalization,B
+206,Class Diagram,2,The main purpose of Class Diagram is to:,classes and relationships,Network routing,Hardware installation,User interface theme,A
+207,Class Diagram,3,Which concept belongs to Class Diagram?,composition,DNS resolution,Sequence Diagram,Unit Testing,A
+208,Class Diagram,2,Which term is most related to Class Diagram?,Sequence Diagram,composition,SDLC,Version Control,B
+209,Class Diagram,2,Which concept belongs to Class Diagram?,Bluetooth protocol,Use Case Diagram,Hardware installation,composition,D
+210,Class Diagram,3,Which is NOT related to Class Diagram?,inheritance,composition,Not related,aggregation,C
+211,Class Diagram,3,What best describes Class Diagram?,classes and relationships,Unit Testing,System Testing,Random guessing,A
+212,Class Diagram,1,The main purpose of Class Diagram is to:,CPU scheduling,attributes and methods,Software Maintenance,System Testing,B
+213,Class Diagram,3,The main purpose of Class Diagram is to:,Software Maintenance,classes and relationships,Software Testing,DNS resolution,B
+214,Class Diagram,3,What best describes Class Diagram?,Random guessing,Email SMTP,Network routing,classes and relationships,D
+215,Class Diagram,1,Which term is most related to Class Diagram?,Integration Testing,Use Case Diagram,aggregation,Bluetooth protocol,C
+216,Class Diagram,2,Which term is most related to Class Diagram?,multiplicity,Version Control,User interface theme,Cooking recipe,A
+217,Class Diagram,3,Which concept belongs to Class Diagram?,generalization,Sequence Diagram,Email SMTP,SDLC,A
+218,Class Diagram,2,What best describes Class Diagram?,CPU scheduling,SDLC,Software Testing,classes and relationships,D
+219,Class Diagram,3,What best describes Class Diagram?,Sequence Diagram,Unit Testing,classes and relationships,Agile Model,C
+220,Class Diagram,3,Which term is most related to Class Diagram?,Scrum,UML,composition,CPU scheduling,C
+221,Class Diagram,2,The main purpose of Class Diagram is to:,Email SMTP,Cooking recipe,DNS resolution,classes and relationships,D
+222,Class Diagram,1,Which term is most related to Class Diagram?,CPU scheduling,inheritance,Database normalization only,Cooking recipe,B
+223,Class Diagram,3,Which concept belongs to Class Diagram?,Database normalization only,Random guessing,association,Scrum,C
+224,Class Diagram,1,What best describes Class Diagram?,Software Testing,Integration Testing,Network routing,classes and relationships,D
+225,Class Diagram,2,Which concept belongs to Class Diagram?,UML,CPU scheduling,System Testing,generalization,D
+226,Class Diagram,2,The main purpose of Class Diagram is to:,Sequence Diagram,classes and relationships,Software Testing,System Testing,B
+227,Class Diagram,2,What best describes Class Diagram?,Network routing,classes and relationships,DNS resolution,Database normalization only,B
+228,Class Diagram,2,What best describes Class Diagram?,DNS resolution,classes and relationships,Random guessing,Software Maintenance,B
+229,Class Diagram,1,What best describes Class Diagram?,classes and relationships,Unit Testing,User interface theme,SDLC,A
+230,Class Diagram,2,Which is NOT related to Class Diagram?,multiplicity,Not related,association,composition,B
+231,Class Diagram,2,What best describes Class Diagram?,CPU scheduling,Use Case Diagram,classes and relationships,Integration Testing,C
+232,Class Diagram,2,What best describes Class Diagram?,classes and relationships,Software Maintenance,Random guessing,Email SMTP,A
+233,Class Diagram,1,Which is NOT related to Class Diagram?,composition,inheritance,Not related,multiplicity,C
+234,Class Diagram,3,What best describes Class Diagram?,Hardware installation,CPU scheduling,Cooking recipe,classes and relationships,D
+235,Class Diagram,3,Which term is most related to Class Diagram?,Bluetooth protocol,Scrum,inheritance,User interface theme,C
+236,Class Diagram,3,What best describes Class Diagram?,DNS resolution,UML,classes and relationships,CPU scheduling,C
+237,Class Diagram,2,Which concept belongs to Class Diagram?,Software Testing,Database normalization only,Scrum,association,D
+238,Class Diagram,3,Which is NOT related to Class Diagram?,multiplicity,aggregation,inheritance,Not related,D
+239,Class Diagram,1,Which term is most related to Class Diagram?,CPU scheduling,Database normalization only,UML,composition,D
+240,Class Diagram,3,Which concept belongs to Class Diagram?,Software Testing,Email SMTP,association,UML,C
+241,Sequence Diagram,1,Which is NOT related to Sequence Diagram?,message,return,Not related,activation,C
+242,Sequence Diagram,2,Which term is most related to Sequence Diagram?,Software Maintenance,Random guessing,Unit Testing,loop,D
+243,Sequence Diagram,2,Which is NOT related to Sequence Diagram?,Not related,loop,alt,message,A
+244,Sequence Diagram,2,Which term is most related to Sequence Diagram?,DNS resolution,return,Use Case Diagram,Version Control,B
+245,Sequence Diagram,1,Which concept belongs to Sequence Diagram?,Class Diagram,sync,Random guessing,Hardware installation,B
+246,Sequence Diagram,2,Which term is most related to Sequence Diagram?,lifeline,Integration Testing,Use Case Diagram,User interface theme,A
+247,Sequence Diagram,2,The main purpose of Sequence Diagram is to:,Hardware installation,Cooking recipe,Unit Testing,message flow over time,D
+248,Sequence Diagram,2,What best describes Sequence Diagram?,Integration Testing,Version Control,Software Maintenance,message flow over time,D
+249,Sequence Diagram,2,Which is NOT related to Sequence Diagram?,sync,alt,loop,Not related,D
+250,Sequence Diagram,3,Which is NOT related to Sequence Diagram?,lifeline,async,Not related,return,C
+251,Sequence Diagram,3,Which concept belongs to Sequence Diagram?,System Testing,sync,Cooking recipe,CPU scheduling,B
+252,Sequence Diagram,3,Which term is most related to Sequence Diagram?,UML,User interface theme,alt,SDLC,C
+253,Sequence Diagram,2,Which term is most related to Sequence Diagram?,Scrum,activation,Use Case Diagram,Unit Testing,B
+254,Sequence Diagram,1,Which term is most related to Sequence Diagram?,Database normalization only,UML,Version Control,return,D
+255,Sequence Diagram,1,Which term is most related to Sequence Diagram?,Bluetooth protocol,Cooking recipe,Database normalization only,return,D
+256,Sequence Diagram,1,Which term is most related to Sequence Diagram?,Software Testing,System Testing,loop,Class Diagram,C
+257,Sequence Diagram,2,Which concept belongs to Sequence Diagram?,Cooking recipe,Use Case Diagram,Software Maintenance,sync,D
+258,Sequence Diagram,3,Which term is most related to Sequence Diagram?,loop,SDLC,Database normalization only,Hardware installation,A
+259,Sequence Diagram,1,What best describes Sequence Diagram?,message flow over time,SDLC,CPU scheduling,Cooking recipe,A
+260,Sequence Diagram,2,Which concept belongs to Sequence Diagram?,Class Diagram,User interface theme,return,Network routing,C
+261,Sequence Diagram,3,What best describes Sequence Diagram?,Unit Testing,Scrum,Hardware installation,message flow over time,D
+262,Sequence Diagram,2,Which concept belongs to Sequence Diagram?,async,Random guessing,User interface theme,Bluetooth protocol,A
+263,Sequence Diagram,2,The main purpose of Sequence Diagram is to:,Cooking recipe,Class Diagram,CPU scheduling,object interactions,D
+264,Sequence Diagram,2,Which term is most related to Sequence Diagram?,Bluetooth protocol,message,UML,Network routing,B
+265,Sequence Diagram,2,The main purpose of Sequence Diagram is to:,object interactions,UML,User interface theme,Software Testing,A
+266,Sequence Diagram,2,Which is NOT related to Sequence Diagram?,async,Not related,alt,activation,B
+267,Sequence Diagram,1,Which concept belongs to Sequence Diagram?,Cooking recipe,async,Agile Model,CPU scheduling,B
+268,Sequence Diagram,2,Which is NOT related to Sequence Diagram?,Not related,activation,sync,return,A
+269,Sequence Diagram,2,The main purpose of Sequence Diagram is to:,object interactions,UML,System Testing,Random guessing,A
+270,Sequence Diagram,2,Which is NOT related to Sequence Diagram?,sync,Not related,alt,message,B
+271,Sequence Diagram,1,The main purpose of Sequence Diagram is to:,object interactions,DNS resolution,Class Diagram,CPU scheduling,A
+272,Sequence Diagram,3,The main purpose of Sequence Diagram is to:,DNS resolution,Integration Testing,Database normalization only,object interactions,D
+273,Sequence Diagram,2,Which term is most related to Sequence Diagram?,Unit Testing,Email SMTP,Random guessing,alt,D
+274,Sequence Diagram,1,What best describes Sequence Diagram?,Email SMTP,message flow over time,Agile Model,DNS resolution,B
+275,Sequence Diagram,3,The main purpose of Sequence Diagram is to:,Email SMTP,Unit Testing,object interactions,SDLC,C
+276,Sequence Diagram,2,What best describes Sequence Diagram?,Use Case Diagram,Random guessing,Cooking recipe,message flow over time,D
+277,Sequence Diagram,2,Which is NOT related to Sequence Diagram?,lifeline,Not related,sync,activation,B
+278,Sequence Diagram,2,Which term is most related to Sequence Diagram?,loop,Unit Testing,Bluetooth protocol,User interface theme,A
+279,Sequence Diagram,2,Which term is most related to Sequence Diagram?,Scrum,Agile Model,return,DNS resolution,C
+280,Sequence Diagram,2,Which concept belongs to Sequence Diagram?,Network routing,Cooking recipe,Version Control,async,D
+281,Software Testing,2,Which is NOT related to Software Testing?,Not related,test case,defect,regression,A
+282,Software Testing,2,The main purpose of Software Testing is to:,Use Case Diagram,Network routing,Random guessing,verify requirements,D
+283,Software Testing,2,Which concept belongs to Software Testing?,Bluetooth protocol,UML,Email SMTP,unit,D
+284,Software Testing,3,Which term is most related to Software Testing?,regression,Sequence Diagram,Bluetooth protocol,Class Diagram,A
+285,Software Testing,3,The main purpose of Software Testing is to:,Sequence Diagram,verify requirements,Integration Testing,Agile Model,B
+286,Software Testing,2,Which is NOT related to Software Testing?,system,defect,test case,Not related,D
+287,Software Testing,1,Which term is most related to Software Testing?,Integration Testing,User interface theme,UML,regression,D
+288,Software Testing,1,What best describes Software Testing?,Database normalization only,Bluetooth protocol,find defects,Cooking recipe,C
+289,Software Testing,2,Which is NOT related to Software Testing?,acceptance,Not related,defect,functional,B
+290,Software Testing,2,Which is NOT related to Software Testing?,system,Not related,functional,test case,B
+291,Software Testing,2,What best describes Software Testing?,DNS resolution,Sequence Diagram,Agile Model,find defects,D
+292,Software Testing,2,Which term is most related to Software Testing?,defect,Class Diagram,Unit Testing,Cooking recipe,A
+293,Software Testing,3,The main purpose of Software Testing is to:,Sequence Diagram,Use Case Diagram,Cooking recipe,find defects,D
+294,Software Testing,2,Which term is most related to Software Testing?,Agile Model,SDLC,System Testing,test case,D
+295,Software Testing,3,The main purpose of Software Testing is to:,find defects,Random guessing,Integration Testing,UML,A
+296,Software Testing,3,Which term is most related to Software Testing?,UML,User interface theme,DNS resolution,regression,D
+297,Software Testing,3,The main purpose of Software Testing is to:,verify requirements,User interface theme,Email SMTP,System Testing,A
+298,Software Testing,3,Which is NOT related to Software Testing?,acceptance,system,functional,Not related,D
+299,Software Testing,2,Which term is most related to Software Testing?,UML,Agile Model,CPU scheduling,functional,D
+300,Software Testing,2,Which term is most related to Software Testing?,System Testing,Random guessing,non-functional,Unit Testing,C
+301,Software Testing,2,Which is NOT related to Software Testing?,functional,Not related,system,regression,B
+302,Software Testing,1,Which concept belongs to Software Testing?,Class Diagram,acceptance,Scrum,Agile Model,B
+303,Software Testing,1,What best describes Software Testing?,Version Control,find defects,DNS resolution,Class Diagram,B
+304,Software Testing,1,Which term is most related to Software Testing?,test case,SDLC,Random guessing,UML,A
+305,Software Testing,2,Which concept belongs to Software Testing?,Random guessing,Hardware installation,Scrum,integration,D
+306,Software Testing,1,What best describes Software Testing?,find defects,Integration Testing,Database normalization only,Agile Model,A
+307,Software Testing,2,What best describes Software Testing?,Email SMTP,Sequence Diagram,CPU scheduling,find defects,D
+308,Software Testing,2,Which term is most related to Software Testing?,Use Case Diagram,UML,defect,SDLC,C
+309,Software Testing,1,Which concept belongs to Software Testing?,Use Case Diagram,CPU scheduling,Sequence Diagram,unit,D
+310,Software Testing,1,Which concept belongs to Software Testing?,SDLC,Class Diagram,unit,System Testing,C
+311,Software Testing,2,What best describes Software Testing?,Bluetooth protocol,Random guessing,Use Case Diagram,find defects,D
+312,Software Testing,1,Which is NOT related to Software Testing?,test case,Not related,unit,acceptance,B
+313,Software Testing,2,Which term is most related to Software Testing?,defect,Network routing,Integration Testing,SDLC,A
+314,Software Testing,3,Which concept belongs to Software Testing?,Email SMTP,Scrum,system,Class Diagram,C
+315,Software Testing,2,Which concept belongs to Software Testing?,Cooking recipe,User interface theme,integration,Unit Testing,C
+316,Software Testing,2,Which concept belongs to Software Testing?,Cooking recipe,Software Maintenance,acceptance,Bluetooth protocol,C
+317,Software Testing,1,Which term is most related to Software Testing?,Use Case Diagram,defect,Scrum,DNS resolution,B
+318,Software Testing,1,The main purpose of Software Testing is to:,System Testing,SDLC,Use Case Diagram,verify requirements,D
+319,Software Testing,1,The main purpose of Software Testing is to:,find defects,User interface theme,Email SMTP,Network routing,A
+320,Software Testing,3,Which concept belongs to Software Testing?,SDLC,Random guessing,Database normalization only,integration,D
+321,Unit Testing,1,Which concept belongs to Unit Testing?,TDD,Software Testing,Sequence Diagram,Version Control,A
+322,Unit Testing,2,Which term is most related to Unit Testing?,Software Testing,TDD,Agile Model,Cooking recipe,B
+323,Unit Testing,2,Which term is most related to Unit Testing?,Use Case Diagram,UML,Bluetooth protocol,mock,D
+324,Unit Testing,2,Which concept belongs to Unit Testing?,User interface theme,Database normalization only,Agile Model,TDD,D
+325,Unit Testing,1,Which concept belongs to Unit Testing?,TDD,Version Control,Class Diagram,CPU scheduling,A
+326,Unit Testing,1,What best describes Unit Testing?,Use Case Diagram,User interface theme,tests smallest units,Version Control,C
+327,Unit Testing,2,Which term is most related to Unit Testing?,Sequence Diagram,Integration Testing,Software Testing,TDD,D
+328,Unit Testing,3,Which concept belongs to Unit Testing?,SDLC,TDD,System Testing,DNS resolution,B
+329,Unit Testing,2,Which is NOT related to Unit Testing?,coverage,stub,AAA,Not related,D
+330,Unit Testing,1,Which term is most related to Unit Testing?,AAA,Sequence Diagram,Use Case Diagram,Email SMTP,A
+331,Unit Testing,1,Which is NOT related to Unit Testing?,Not related,coverage,AAA,stub,A
+332,Unit Testing,1,Which concept belongs to Unit Testing?,Sequence Diagram,Arrange-Act-Assert,Email SMTP,Database normalization only,B
+333,Unit Testing,2,Which concept belongs to Unit Testing?,Agile Model,TDD,UML,Bluetooth protocol,B
+334,Unit Testing,1,Which term is most related to Unit Testing?,Integration Testing,Bluetooth protocol,System Testing,coverage,D
+335,Unit Testing,1,Which is NOT related to Unit Testing?,coverage,AAA,TDD,Not related,D
+336,Unit Testing,1,What best describes Unit Testing?,System Testing,CPU scheduling,Use Case Diagram,tests smallest units,D
+337,Unit Testing,2,Which term is most related to Unit Testing?,AAA,Software Testing,Bluetooth protocol,Class Diagram,A
+338,Unit Testing,3,The main purpose of Unit Testing is to:,Bluetooth protocol,Integration Testing,tests smallest units,Hardware installation,C
+339,Unit Testing,3,Which is NOT related to Unit Testing?,Not related,Arrange-Act-Assert,stub,coverage,A
+340,Unit Testing,2,Which concept belongs to Unit Testing?,Random guessing,TDD,User interface theme,CPU scheduling,B
+341,Unit Testing,1,What best describes Unit Testing?,Version Control,tests smallest units,User interface theme,Sequence Diagram,B
+342,Unit Testing,2,Which term is most related to Unit Testing?,UML,Database normalization only,stub,Agile Model,C
+343,Unit Testing,2,The main purpose of Unit Testing is to:,Integration Testing,Cooking recipe,fast and isolated,Random guessing,C
+344,Unit Testing,2,Which concept belongs to Unit Testing?,Email SMTP,SDLC,Sequence Diagram,TDD,D
+345,Unit Testing,3,What best describes Unit Testing?,Bluetooth protocol,tests smallest units,Class Diagram,Software Testing,B
+346,Unit Testing,3,Which term is most related to Unit Testing?,Class Diagram,Agile Model,coverage,Database normalization only,C
+347,Unit Testing,2,The main purpose of Unit Testing is to:,Software Testing,Network routing,fast and isolated,Integration Testing,C
+348,Unit Testing,3,What best describes Unit Testing?,User interface theme,Software Maintenance,tests smallest units,Class Diagram,C
+349,Unit Testing,1,The main purpose of Unit Testing is to:,User interface theme,Software Testing,tests smallest units,Scrum,C
+350,Unit Testing,3,Which is NOT related to Unit Testing?,stub,Not related,TDD,AAA,B
+351,Unit Testing,1,Which term is most related to Unit Testing?,Version Control,mock,Use Case Diagram,Hardware installation,B
+352,Unit Testing,2,What best describes Unit Testing?,CPU scheduling,UML,tests smallest units,Random guessing,C
+353,Unit Testing,3,Which is NOT related to Unit Testing?,mock,AAA,Not related,TDD,C
+354,Unit Testing,3,What best describes Unit Testing?,System Testing,SDLC,tests smallest units,Software Maintenance,C
+355,Unit Testing,1,Which concept belongs to Unit Testing?,TDD,UML,Database normalization only,Class Diagram,A
+356,Unit Testing,1,Which term is most related to Unit Testing?,Bluetooth protocol,Software Maintenance,mock,Random guessing,C
+357,Unit Testing,1,The main purpose of Unit Testing is to:,Network routing,fast and isolated,SDLC,Version Control,B
+358,Unit Testing,2,Which is NOT related to Unit Testing?,mock,Arrange-Act-Assert,AAA,Not related,D
+359,Unit Testing,2,Which concept belongs to Unit Testing?,System Testing,Cooking recipe,Arrange-Act-Assert,Hardware installation,C
+360,Unit Testing,3,Which concept belongs to Unit Testing?,DNS resolution,Hardware installation,Arrange-Act-Assert,CPU scheduling,C
+361,Integration Testing,2,The main purpose of Integration Testing is to:,DNS resolution,Version Control,System Testing,tests module interactions,D
+362,Integration Testing,1,Which term is most related to Integration Testing?,DNS resolution,Agile Model,top-down,Database normalization only,C
+363,Integration Testing,1,Which concept belongs to Integration Testing?,Cooking recipe,Unit Testing,Software Maintenance,top-down,D
+364,Integration Testing,2,The main purpose of Integration Testing is to:,tests module interactions,Class Diagram,Unit Testing,UML,A
+365,Integration Testing,2,Which term is most related to Integration Testing?,contract,Random guessing,Version Control,DNS resolution,A
+366,Integration Testing,1,Which is NOT related to Integration Testing?,top-down,bottom-up,contract,Not related,D
+367,Integration Testing,1,Which concept belongs to Integration Testing?,Use Case Diagram,Software Maintenance,big-bang,Email SMTP,C
+368,Integration Testing,3,What best describes Integration Testing?,tests module interactions,Class Diagram,Agile Model,DNS resolution,A
+369,Integration Testing,2,Which term is most related to Integration Testing?,contract,System Testing,Random guessing,Email SMTP,A
+370,Integration Testing,1,Which is NOT related to Integration Testing?,contract,API,bottom-up,Not related,D
+371,Integration Testing,3,Which term is most related to Integration Testing?,API,DNS resolution,Network routing,Scrum,A
+372,Integration Testing,3,The main purpose of Integration Testing is to:,UML,interface defects,Bluetooth protocol,System Testing,B
+373,Integration Testing,1,What best describes Integration Testing?,Hardware installation,System Testing,tests module interactions,Software Maintenance,C
+374,Integration Testing,2,Which concept belongs to Integration Testing?,Unit Testing,big-bang,UML,Hardware installation,B
+375,Integration Testing,1,What best describes Integration Testing?,tests module interactions,Use Case Diagram,Version Control,Email SMTP,A
+376,Integration Testing,1,Which term is most related to Integration Testing?,SDLC,Bluetooth protocol,top-down,DNS resolution,C
+377,Integration Testing,1,Which concept belongs to Integration Testing?,Software Testing,top-down,CPU scheduling,DNS resolution,B
+378,Integration Testing,2,The main purpose of Integration Testing is to:,Agile Model,Software Testing,interface defects,Use Case Diagram,C
+379,Integration Testing,2,Which is NOT related to Integration Testing?,big-bang,top-down,Not related,bottom-up,C
+380,Integration Testing,2,Which concept belongs to Integration Testing?,Unit Testing,Version Control,System Testing,bottom-up,D
+381,Integration Testing,3,Which term is most related to Integration Testing?,API,DNS resolution,Database normalization only,CPU scheduling,A
+382,Integration Testing,1,What best describes Integration Testing?,tests module interactions,Bluetooth protocol,DNS resolution,Version Control,A
+383,Integration Testing,1,The main purpose of Integration Testing is to:,UML,tests module interactions,Software Testing,DNS resolution,B
+384,Integration Testing,2,What best describes Integration Testing?,Version Control,User interface theme,SDLC,tests module interactions,D
+385,Integration Testing,1,What best describes Integration Testing?,Version Control,tests module interactions,Sequence Diagram,Software Testing,B
+386,Integration Testing,1,What best describes Integration Testing?,DNS resolution,CPU scheduling,User interface theme,tests module interactions,D
+387,Integration Testing,3,Which term is most related to Integration Testing?,Bluetooth protocol,SDLC,Unit Testing,bottom-up,D
+388,Integration Testing,1,Which term is most related to Integration Testing?,API,Use Case Diagram,Software Testing,Unit Testing,A
+389,Integration Testing,2,The main purpose of Integration Testing is to:,Scrum,interface defects,Database normalization only,Email SMTP,B
+390,Integration Testing,1,What best describes Integration Testing?,Database normalization only,System Testing,tests module interactions,Email SMTP,C
+391,Integration Testing,1,Which is NOT related to Integration Testing?,contract,top-down,Not related,bottom-up,C
+392,Integration Testing,1,The main purpose of Integration Testing is to:,tests module interactions,Network routing,Bluetooth protocol,Hardware installation,A
+393,Integration Testing,3,Which is NOT related to Integration Testing?,Not related,top-down,bottom-up,API,A
+394,Integration Testing,3,The main purpose of Integration Testing is to:,CPU scheduling,Version Control,interface defects,System Testing,C
+395,Integration Testing,2,Which term is most related to Integration Testing?,SDLC,big-bang,Bluetooth protocol,UML,B
+396,Integration Testing,1,The main purpose of Integration Testing is to:,Version Control,User interface theme,tests module interactions,UML,C
+397,Integration Testing,1,Which term is most related to Integration Testing?,Hardware installation,System Testing,bottom-up,Software Testing,C
+398,Integration Testing,1,What best describes Integration Testing?,Scrum,System Testing,Class Diagram,tests module interactions,D
+399,Integration Testing,1,What best describes Integration Testing?,tests module interactions,UML,Scrum,Unit Testing,A
+400,Integration Testing,2,Which is NOT related to Integration Testing?,big-bang,bottom-up,top-down,Not related,D
+401,System Testing,2,Which concept belongs to System Testing?,UAT,Software Testing,Integration Testing,Software Maintenance,A
+402,System Testing,1,What best describes System Testing?,Scrum,Database normalization only,Class Diagram,tests whole system,D
+403,System Testing,1,Which concept belongs to System Testing?,end-to-end,Sequence Diagram,SDLC,Software Maintenance,A
+404,System Testing,2,What best describes System Testing?,Class Diagram,Agile Model,Database normalization only,tests whole system,D
+405,System Testing,2,Which concept belongs to System Testing?,end-to-end,Random guessing,Version Control,Cooking recipe,A
+406,System Testing,1,Which term is most related to System Testing?,compatibility,Unit Testing,DNS resolution,Software Maintenance,A
+407,System Testing,1,The main purpose of System Testing is to:,UML,end-to-end,User interface theme,DNS resolution,B
+408,System Testing,2,What best describes System Testing?,Class Diagram,tests whole system,Use Case Diagram,UML,B
+409,System Testing,1,What best describes System Testing?,tests whole system,DNS resolution,Agile Model,Version Control,A
+410,System Testing,1,Which concept belongs to System Testing?,Network routing,Software Testing,UAT,Unit Testing,C
+411,System Testing,2,Which is NOT related to System Testing?,compatibility,Not related,recovery,performance,B
+412,System Testing,1,The main purpose of System Testing is to:,end-to-end,Network routing,Version Control,Database normalization only,A
+413,System Testing,1,Which term is most related to System Testing?,Agile Model,performance,Software Maintenance,DNS resolution,B
+414,System Testing,2,Which concept belongs to System Testing?,Unit Testing,Use Case Diagram,UAT,Sequence Diagram,C
+415,System Testing,2,Which term is most related to System Testing?,recovery,DNS resolution,Use Case Diagram,Class Diagram,A
+416,System Testing,3,What best describes System Testing?,Bluetooth protocol,SDLC,Scrum,tests whole system,D
+417,System Testing,2,Which concept belongs to System Testing?,Cooking recipe,Software Testing,Email SMTP,end-to-end,D
+418,System Testing,2,What best describes System Testing?,CPU scheduling,Database normalization only,tests whole system,Hardware installation,C
+419,System Testing,2,Which term is most related to System Testing?,load,Hardware installation,Bluetooth protocol,Version Control,A
+420,System Testing,3,Which is NOT related to System Testing?,Not related,end-to-end,performance,compatibility,A
+421,System Testing,2,Which term is most related to System Testing?,load,Email SMTP,Network routing,Hardware installation,A
+422,System Testing,1,Which is NOT related to System Testing?,recovery,UAT,Not related,performance,C
+423,System Testing,3,What best describes System Testing?,DNS resolution,UML,Class Diagram,tests whole system,D
+424,System Testing,2,Which concept belongs to System Testing?,CPU scheduling,SDLC,Bluetooth protocol,UAT,D
+425,System Testing,3,The main purpose of System Testing is to:,Agile Model,end-to-end,Network routing,Scrum,B
+426,System Testing,1,The main purpose of System Testing is to:,end-to-end,Class Diagram,Sequence Diagram,UML,A
+427,System Testing,2,The main purpose of System Testing is to:,Software Testing,Agile Model,Network routing,end-to-end,D
+428,System Testing,2,What best describes System Testing?,Agile Model,Use Case Diagram,DNS resolution,tests whole system,D
+429,System Testing,2,What best describes System Testing?,User interface theme,tests whole system,SDLC,Cooking recipe,B
+430,System Testing,1,The main purpose of System Testing is to:,Software Testing,Use Case Diagram,Network routing,tests whole system,D
+431,System Testing,2,Which term is most related to System Testing?,Integration Testing,performance,Software Maintenance,Cooking recipe,B
+432,System Testing,2,Which is NOT related to System Testing?,UAT,end-to-end,performance,Not related,D
+433,System Testing,1,Which is NOT related to System Testing?,compatibility,load,end-to-end,Not related,D
+434,System Testing,3,Which concept belongs to System Testing?,Hardware installation,Email SMTP,UAT,Scrum,C
+435,System Testing,2,Which term is most related to System Testing?,Scrum,security,Software Maintenance,Use Case Diagram,B
+436,System Testing,2,The main purpose of System Testing is to:,tests whole system,Email SMTP,Sequence Diagram,SDLC,A
+437,System Testing,2,The main purpose of System Testing is to:,end-to-end,Email SMTP,Network routing,User interface theme,A
+438,System Testing,2,Which is NOT related to System Testing?,Not related,UAT,compatibility,security,A
+439,System Testing,3,The main purpose of System Testing is to:,Hardware installation,Software Testing,end-to-end,UML,C
+440,System Testing,1,Which is NOT related to System Testing?,performance,UAT,compatibility,Not related,D
+441,Version Control,1,The main purpose of Version Control is to:,Agile Model,DNS resolution,collaboration with Git,CPU scheduling,C
+442,Version Control,1,Which term is most related to Version Control?,Network routing,conflict,Integration Testing,Hardware installation,B
+443,Version Control,1,Which is NOT related to Version Control?,commit,Git Flow,Not related,tag,C
+444,Version Control,1,Which is NOT related to Version Control?,conflict,Not related,commit,Git Flow,B
+445,Version Control,1,Which term is most related to Version Control?,Agile Model,Unit Testing,Bluetooth protocol,branch,D
+446,Version Control,1,What best describes Version Control?,Cooking recipe,Email SMTP,track changes,Random guessing,C
+447,Version Control,2,Which concept belongs to Version Control?,trunk-based,Bluetooth protocol,Class Diagram,DNS resolution,A
+448,Version Control,3,Which concept belongs to Version Control?,Cooking recipe,User interface theme,Software Maintenance,trunk-based,D
+449,Version Control,3,The main purpose of Version Control is to:,track changes,Sequence Diagram,Software Testing,UML,A
+450,Version Control,2,Which concept belongs to Version Control?,Agile Model,Software Maintenance,UML,Git Flow,D
+451,Version Control,2,Which concept belongs to Version Control?,Hardware installation,Git Flow,SDLC,Integration Testing,B
+452,Version Control,1,Which term is most related to Version Control?,SDLC,Agile Model,merge,Network routing,C
+453,Version Control,1,Which term is most related to Version Control?,Hardware installation,conflict,Network routing,UML,B
+454,Version Control,2,Which is NOT related to Version Control?,Not related,commit,trunk-based,pull request,A
+455,Version Control,1,Which term is most related to Version Control?,commit,Cooking recipe,Scrum,Email SMTP,A
+456,Version Control,2,What best describes Version Control?,track changes,SDLC,Bluetooth protocol,UML,A
+457,Version Control,3,Which is NOT related to Version Control?,Not related,pull request,branch,commit,A
+458,Version Control,2,What best describes Version Control?,track changes,Network routing,Class Diagram,Unit Testing,A
+459,Version Control,2,What best describes Version Control?,SDLC,Integration Testing,track changes,Software Maintenance,C
+460,Version Control,2,Which concept belongs to Version Control?,trunk-based,Sequence Diagram,Scrum,Use Case Diagram,A
+461,Version Control,2,What best describes Version Control?,User interface theme,Integration Testing,track changes,Software Maintenance,C
+462,Version Control,3,The main purpose of Version Control is to:,System Testing,Database normalization only,track changes,UML,C
+463,Version Control,2,What best describes Version Control?,Class Diagram,track changes,Integration Testing,Network routing,B
+464,Version Control,2,Which concept belongs to Version Control?,trunk-based,Hardware installation,DNS resolution,Class Diagram,A
+465,Version Control,3,The main purpose of Version Control is to:,Scrum,UML,track changes,Random guessing,C
+466,Version Control,1,Which concept belongs to Version Control?,Integration Testing,Git Flow,System Testing,Bluetooth protocol,B
+467,Version Control,2,Which concept belongs to Version Control?,DNS resolution,Software Maintenance,trunk-based,Software Testing,C
+468,Version Control,1,What best describes Version Control?,Email SMTP,Network routing,SDLC,track changes,D
+469,Version Control,1,Which concept belongs to Version Control?,Sequence Diagram,trunk-based,Scrum,Random guessing,B
+470,Version Control,2,The main purpose of Version Control is to:,Integration Testing,collaboration with Git,Software Maintenance,Class Diagram,B
+471,Version Control,2,Which concept belongs to Version Control?,UML,trunk-based,Class Diagram,Random guessing,B
+472,Version Control,3,What best describes Version Control?,Hardware installation,User interface theme,track changes,DNS resolution,C
+473,Version Control,2,The main purpose of Version Control is to:,track changes,Use Case Diagram,Scrum,Class Diagram,A
+474,Version Control,2,Which term is most related to Version Control?,merge,SDLC,Database normalization only,Software Testing,A
+475,Version Control,1,Which is NOT related to Version Control?,commit,pull request,Not related,trunk-based,C
+476,Version Control,2,Which is NOT related to Version Control?,branch,merge,Not related,conflict,C
+477,Version Control,2,The main purpose of Version Control is to:,User interface theme,Class Diagram,Agile Model,collaboration with Git,D
+478,Version Control,1,The main purpose of Version Control is to:,Use Case Diagram,track changes,DNS resolution,Unit Testing,B
+479,Version Control,3,Which is NOT related to Version Control?,Not related,tag,merge,commit,A
+480,Version Control,2,The main purpose of Version Control is to:,Scrum,track changes,SDLC,Cooking recipe,B
+481,Software Maintenance,3,Which concept belongs to Software Maintenance?,preventive,Use Case Diagram,Cooking recipe,Database normalization only,A
+482,Software Maintenance,1,Which term is most related to Software Maintenance?,SDLC,preventive,User interface theme,DNS resolution,B
+483,Software Maintenance,3,Which term is most related to Software Maintenance?,Software Testing,Cooking recipe,refactoring,UML,C
+484,Software Maintenance,1,Which term is most related to Software Maintenance?,Email SMTP,monitoring,Class Diagram,Cooking recipe,B
+485,Software Maintenance,2,Which concept belongs to Software Maintenance?,adaptive,System Testing,Bluetooth protocol,Scrum,A
+486,Software Maintenance,1,Which term is most related to Software Maintenance?,Agile Model,User interface theme,Network routing,corrective,D
+487,Software Maintenance,2,The main purpose of Software Maintenance is to:,Network routing,SDLC,fixes and enhancements,User interface theme,C
+488,Software Maintenance,1,Which concept belongs to Software Maintenance?,DNS resolution,UML,Sequence Diagram,adaptive,D
+489,Software Maintenance,2,The main purpose of Software Maintenance is to:,Database normalization only,DNS resolution,Network routing,post-deployment work,D
+490,Software Maintenance,2,What best describes Software Maintenance?,CPU scheduling,post-deployment work,Cooking recipe,Use Case Diagram,B
+491,Software Maintenance,1,Which term is most related to Software Maintenance?,DNS resolution,Unit Testing,preventive,User interface theme,C
+492,Software Maintenance,1,What best describes Software Maintenance?,User interface theme,post-deployment work,UML,Agile Model,B
+493,Software Maintenance,2,Which term is most related to Software Maintenance?,adaptive,Network routing,Database normalization only,Cooking recipe,A
+494,Software Maintenance,2,The main purpose of Software Maintenance is to:,Hardware installation,fixes and enhancements,Agile Model,System Testing,B
+495,Software Maintenance,2,What best describes Software Maintenance?,User interface theme,CPU scheduling,Software Testing,post-deployment work,D
+496,Software Maintenance,2,Which concept belongs to Software Maintenance?,Version Control,perfective,SDLC,Random guessing,B
+497,Software Maintenance,1,What best describes Software Maintenance?,Random guessing,post-deployment work,Class Diagram,UML,B
+498,Software Maintenance,1,Which is NOT related to Software Maintenance?,Not related,refactoring,adaptive,corrective,A
+499,Software Maintenance,1,Which concept belongs to Software Maintenance?,Email SMTP,Cooking recipe,adaptive,Hardware installation,C
+500,Software Maintenance,2,The main purpose of Software Maintenance is to:,Database normalization only,Cooking recipe,Use Case Diagram,fixes and enhancements,D
+501,Software Maintenance,1,Which is NOT related to Software Maintenance?,corrective,Not related,refactoring,adaptive,B
+502,Software Maintenance,3,The main purpose of Software Maintenance is to:,Email SMTP,Agile Model,post-deployment work,Unit Testing,C
+503,Software Maintenance,2,What best describes Software Maintenance?,post-deployment work,Bluetooth protocol,System Testing,Cooking recipe,A
+504,Software Maintenance,3,Which concept belongs to Software Maintenance?,User interface theme,preventive,Integration Testing,Class Diagram,B
+505,Software Maintenance,2,Which concept belongs to Software Maintenance?,User interface theme,adaptive,Network routing,DNS resolution,B
+506,Software Maintenance,1,The main purpose of Software Maintenance is to:,Random guessing,fixes and enhancements,Class Diagram,Version Control,B
+507,Software Maintenance,2,Which is NOT related to Software Maintenance?,refactoring,Not related,adaptive,monitoring,B
+508,Software Maintenance,3,Which is NOT related to Software Maintenance?,corrective,adaptive,refactoring,Not related,D
+509,Software Maintenance,2,The main purpose of Software Maintenance is to:,post-deployment work,CPU scheduling,Integration Testing,Use Case Diagram,A
+510,Software Maintenance,2,Which is NOT related to Software Maintenance?,refactoring,corrective,Not related,adaptive,C
+511,Software Maintenance,1,Which term is most related to Software Maintenance?,Software Testing,preventive,Integration Testing,Hardware installation,B
+512,Software Maintenance,1,What best describes Software Maintenance?,Email SMTP,post-deployment work,Use Case Diagram,Unit Testing,B
+513,Software Maintenance,2,What best describes Software Maintenance?,User interface theme,Scrum,post-deployment work,CPU scheduling,C
+514,Software Maintenance,2,Which is NOT related to Software Maintenance?,perfective,Not related,preventive,adaptive,B
+515,Software Maintenance,2,The main purpose of Software Maintenance is to:,Network routing,Sequence Diagram,Software Testing,post-deployment work,D
+516,Software Maintenance,3,Which is NOT related to Software Maintenance?,adaptive,preventive,perfective,Not related,D
+517,Software Maintenance,2,Which concept belongs to Software Maintenance?,SDLC,corrective,Class Diagram,Bluetooth protocol,B
+518,Software Maintenance,1,Which term is most related to Software Maintenance?,Version Control,refactoring,Cooking recipe,Database normalization only,B
+519,Software Maintenance,2,Which concept belongs to Software Maintenance?,CPU scheduling,Class Diagram,corrective,Agile Model,C
+520,Software Maintenance,2,The main purpose of Software Maintenance is to:,fixes and enhancements,UML,Agile Model,Cooking recipe,A

@@ -1,0 +1,370 @@
+text,intent
+give mcq on software maintenance,quiz
+start a quiz on Class diagram,quiz
+is my answer correct for Use case diagram?,check_answer
+what is SDLC?,explain
+can you explain software maintenance with example?,explain
+ask questions about Scrum,quiz
+recommend resources for Scrum,recommend
+give mcq on system testing,quiz
+check my answer on system testing,check_answer
+give me youtube links for software maintenance,recommend
+check my answer on Use case diagram,check_answer
+can you explain Git with example?,explain
+recommend resources for software testing,recommend
+explain system testing in simple words,explain
+explain why option C is wrong,check_answer
+recommend tutorials on Use case diagram,recommend
+quiz me on Use case diagram,quiz
+explain system testing,explain
+teach me Scrum,explain
+hi tutor,greeting
+"my answer is B, correct?",check_answer
+can you explain Sequence diagram with example?,explain
+teach me Class diagram,explain
+suggest materials for Git,recommend
+recommend tutorials on system testing,recommend
+ask questions about Agile,quiz
+explain software testing,explain
+explain integration testing in simple words,explain
+explain why option C is wrong,check_answer
+suggest materials for Agile,recommend
+give mcq on SDLC,quiz
+"i chose option A, is it correct?",check_answer
+explain software testing in simple words,explain
+"my answer is B, correct?",check_answer
+best website to learn SDLC,recommend
+start a quiz on software maintenance,quiz
+recommend resources for integration testing,recommend
+define UML,explain
+give mcq on software testing,quiz
+ask questions about Git,quiz
+best website to learn Git,recommend
+explain Use case diagram in simple words,explain
+give me youtube links for version control,recommend
+open google,other
+give me notes on Class diagram,explain
+give me youtube links for Git,recommend
+define system testing,explain
+give me notes on version control,explain
+what is Agile?,explain
+define integration testing,explain
+what is version control?,explain
+hey there,greeting
+"my answer is B, correct?",check_answer
+can you explain integration testing with example?,explain
+give me youtube links for unit testing,recommend
+best website to learn software testing,recommend
+suggest materials for software maintenance,recommend
+good morning,greeting
+explain why option C is wrong,check_answer
+quiz me on Scrum,quiz
+"my answer is B, correct?",check_answer
+teach me software testing,explain
+"my answer is B, correct?",check_answer
+recommend resources for UML,recommend
+give mcq on Scrum,quiz
+explain why option C is wrong,check_answer
+give me notes on Agile,explain
+give me notes on Scrum,explain
+check my answer on SDLC,check_answer
+i want a quiz for SDLC,quiz
+give me notes on integration testing,explain
+give me notes on software maintenance,explain
+start a quiz on Sequence diagram,quiz
+best website to learn Agile,recommend
+recommend resources for Class diagram,recommend
+give mcq on Agile,quiz
+"i chose option A, is it correct?",check_answer
+play music,other
+explain why option C is wrong,check_answer
+give me notes on UML,explain
+best website to learn Use case diagram,recommend
+give mcq on version control,quiz
+give mcq on unit testing,quiz
+check my answer on integration testing,check_answer
+is my answer correct for system testing?,check_answer
+ask questions about Sequence diagram,quiz
+give me notes on software testing,explain
+give mcq on Git,quiz
+hello bot,greeting
+"i chose option A, is it correct?",check_answer
+what is UML?,explain
+explain Scrum,explain
+recommend tutorials on Class diagram,recommend
+give me youtube links for SDLC,recommend
+explain Sequence diagram in simple words,explain
+start a quiz on version control,quiz
+i want a quiz for software testing,quiz
+check my answer on Sequence diagram,check_answer
+teach me system testing,explain
+start a quiz on unit testing,quiz
+teach me Use case diagram,explain
+is my answer correct for integration testing?,check_answer
+recommend tutorials on version control,recommend
+"i chose option A, is it correct?",check_answer
+start a quiz on integration testing,quiz
+i want a quiz for Sequence diagram,quiz
+ask questions about SDLC,quiz
+give me notes on unit testing,explain
+"my answer is B, correct?",check_answer
+teach me Agile,explain
+check my answer on Scrum,check_answer
+give mcq on integration testing,quiz
+define Agile,explain
+"i chose option A, is it correct?",check_answer
+explain version control,explain
+what is system testing?,explain
+ask questions about UML,quiz
+"my answer is B, correct?",check_answer
+what is integration testing?,explain
+define version control,explain
+explain Agile,explain
+quiz me on Agile,quiz
+give me notes on SDLC,explain
+is my answer correct for Agile?,check_answer
+can you explain unit testing with example?,explain
+can you explain version control with example?,explain
+"my answer is B, correct?",check_answer
+define unit testing,explain
+what is Scrum?,explain
+what is Use case diagram?,explain
+is my answer correct for Git?,check_answer
+teach me unit testing,explain
+best website to learn Scrum,recommend
+"i chose option A, is it correct?",check_answer
+i want a quiz for UML,quiz
+recommend resources for unit testing,recommend
+what is Git?,explain
+give me youtube links for Class diagram,recommend
+quiz me on unit testing,quiz
+suggest materials for software testing,recommend
+give me youtube links for UML,recommend
+is my answer correct for version control?,check_answer
+ask questions about software testing,quiz
+explain why option C is wrong,check_answer
+i want a quiz for integration testing,quiz
+suggest materials for Scrum,recommend
+ask questions about Use case diagram,quiz
+give me notes on Use case diagram,explain
+"my answer is B, correct?",check_answer
+"i chose option A, is it correct?",check_answer
+start a quiz on system testing,quiz
+start a quiz on Agile,quiz
+check my answer on software testing,check_answer
+start a quiz on Scrum,quiz
+best website to learn system testing,recommend
+recommend resources for software maintenance,recommend
+give me youtube links for integration testing,recommend
+is my answer correct for SDLC?,check_answer
+suggest materials for UML,recommend
+ask questions about integration testing,quiz
+"i chose option A, is it correct?",check_answer
+hey,greeting
+i want a quiz for Agile,quiz
+i want a quiz for Git,quiz
+is my answer correct for Class diagram?,check_answer
+i want a quiz for Scrum,quiz
+suggest materials for unit testing,recommend
+recommend tutorials on Sequence diagram,recommend
+start a quiz on Use case diagram,quiz
+teach me integration testing,explain
+explain UML,explain
+can you explain system testing with example?,explain
+give me youtube links for Use case diagram,recommend
+start a quiz on SDLC,quiz
+i want a quiz for software maintenance,quiz
+check my answer on Agile,check_answer
+give mcq on Class diagram,quiz
+"my answer is B, correct?",check_answer
+recommend tutorials on SDLC,recommend
+give me youtube links for system testing,recommend
+what is unit testing?,explain
+"i chose option A, is it correct?",check_answer
+explain Git,explain
+recommend resources for SDLC,recommend
+ask questions about system testing,quiz
+define SDLC,explain
+explain UML in simple words,explain
+explain Scrum in simple words,explain
+i want a quiz for version control,quiz
+start a quiz on software testing,quiz
+explain why option C is wrong,check_answer
+quiz me on Class diagram,quiz
+"my answer is B, correct?",check_answer
+what is Sequence diagram?,explain
+teach me version control,explain
+"my answer is B, correct?",check_answer
+"i chose option A, is it correct?",check_answer
+recommend tutorials on Agile,recommend
+can you explain Use case diagram with example?,explain
+define Git,explain
+suggest materials for SDLC,recommend
+quiz me on Sequence diagram,quiz
+define Scrum,explain
+tell me a joke,other
+quiz me on software testing,quiz
+check my answer on Git,check_answer
+hi,greeting
+recommend tutorials on unit testing,recommend
+recommend tutorials on Git,recommend
+recommend resources for version control,recommend
+what is software maintenance?,explain
+is my answer correct for UML?,check_answer
+give me youtube links for Sequence diagram,recommend
+"i chose option A, is it correct?",check_answer
+define software maintenance,explain
+quiz me on software maintenance,quiz
+explain version control in simple words,explain
+explain Use case diagram,explain
+explain why option C is wrong,check_answer
+define software testing,explain
+i want a quiz for unit testing,quiz
+define Class diagram,explain
+"i chose option A, is it correct?",check_answer
+recommend resources for Use case diagram,recommend
+teach me SDLC,explain
+who is the president,other
+explain why option C is wrong,check_answer
+best website to learn unit testing,recommend
+can you explain Scrum with example?,explain
+recommend resources for Git,recommend
+explain why option C is wrong,check_answer
+good evening,greeting
+start a quiz on UML,quiz
+teach me UML,explain
+is my answer correct for software maintenance?,check_answer
+start a quiz on Git,quiz
+give me youtube links for software testing,recommend
+suggest materials for Class diagram,recommend
+give mcq on Sequence diagram,quiz
+can you explain software testing with example?,explain
+explain why option C is wrong,check_answer
+i want a quiz for Class diagram,quiz
+suggest materials for system testing,recommend
+give mcq on Use case diagram,quiz
+best website to learn software maintenance,recommend
+explain SDLC,explain
+explain unit testing in simple words,explain
+recommend tutorials on software testing,recommend
+explain unit testing,explain
+what is Class diagram?,explain
+explain SDLC in simple words,explain
+quiz me on system testing,quiz
+define Use case diagram,explain
+suggest materials for integration testing,recommend
+give mcq on UML,quiz
+recommend resources for system testing,recommend
+best website to learn Sequence diagram,recommend
+check my answer on unit testing,check_answer
+suggest materials for Sequence diagram,recommend
+check my answer on version control,check_answer
+is my answer correct for Sequence diagram?,check_answer
+is my answer correct for software testing?,check_answer
+recommend tutorials on integration testing,recommend
+recommend resources for Agile,recommend
+recommend tutorials on software maintenance,recommend
+check my answer on Class diagram,check_answer
+quiz me on Git,quiz
+explain Class diagram,explain
+is my answer correct for unit testing?,check_answer
+explain why option C is wrong,check_answer
+recommend tutorials on Scrum,recommend
+explain software maintenance in simple words,explain
+teach me Sequence diagram,explain
+hello,greeting
+explain Class diagram in simple words,explain
+give me notes on system testing,explain
+explain why option C is wrong,check_answer
+can you explain UML with example?,explain
+best website to learn UML,recommend
+explain Git in simple words,explain
+give me notes on Sequence diagram,explain
+recommend tutorials on UML,recommend
+check my answer on software maintenance,check_answer
+can you explain SDLC with example?,explain
+teach me Git,explain
+best website to learn Class diagram,recommend
+quiz me on version control,quiz
+what is your name,other
+ask questions about Class diagram,quiz
+suggest materials for version control,recommend
+"i chose option A, is it correct?",check_answer
+define Sequence diagram,explain
+explain Sequence diagram,explain
+ask questions about software maintenance,quiz
+"my answer is B, correct?",check_answer
+can you do my assignment,other
+is my answer correct for Scrum?,check_answer
+ask questions about version control,quiz
+what is software testing?,explain
+can you explain Class diagram with example?,explain
+explain why option C is wrong,check_answer
+give me youtube links for Agile,recommend
+explain Agile in simple words,explain
+i want a quiz for system testing,quiz
+recommend resources for Sequence diagram,recommend
+check my answer on UML,check_answer
+best website to learn integration testing,recommend
+give me youtube links for Scrum,recommend
+best website to learn version control,recommend
+ask questions about unit testing,quiz
+i want a quiz for Use case diagram,quiz
+quiz me on integration testing,quiz
+explain software maintenance,explain
+give me notes on Git,explain
+"my answer is B, correct?",check_answer
+quiz me on UML,quiz
+give me movie recommendations,other
+can you explain Agile with example?,explain
+"i chose option A, is it correct?",check_answer
+explain integration testing,explain
+quiz me on SDLC,quiz
+suggest materials for Use case diagram,recommend
+teach me software maintenance,explain
+hi,greeting
+hello,greeting
+hey,greeting
+good morning,greeting
+good afternoon,greeting
+good evening,greeting
+hi there,greeting
+hello tutor,greeting
+hey bot,greeting
+hello assistant,greeting
+hi ai tutor,greeting
+greetings,greeting
+how are you,greeting
+hey tutor,greeting
+hi teacher,greeting
+tell me a joke,other
+what is your name,other
+who created you,other
+what can you do,other
+are you human,other
+open youtube,other
+open google,other
+play music,other
+tell me weather,other
+who are you,other
+hi,greeting
+hello,greeting
+hey,greeting
+hii,greeting
+hiii,greeting
+hai,greeting
+good morning,greeting
+good afternoon,greeting
+good evening,greeting
+hello tutor,greeting
+hey tutor,greeting
+hi tutor,greeting
+hello ai,greeting
+greetings,greeting
+yo,greeting
+sup,greeting
+what's up,greeting
+whats up,greeting
+how are you,greeting
+hey there,greeting
+hi there,greeting
