@@ -29,23 +29,22 @@ The system follows a three-tier architecture:
 + Natural Language Processing (NLP) models
 
 # Technologies Used
+Frontend
+ - React.js
+ - HTML
+ - CSS
+ - JavaScript
+Backend
+ - Node.js
+ - Express.js
+Database
+ - MongoDB
+Machine Learning
+ - Python
+ - Scikit-learn
+ - Natural Language Processing techniques
 
------------------Frontend-----------------
-- React.js
-- HTML
-- CSS
-- JavaScript
------------------Backend------------------
-- Node.js
-- Express.js
------------------Database-----------------
-- MongoDB
------------------Machine Learning---------
-- Python
-- Scikit-learn
-- Natural Language Processing techniques
-
-# ----------------------------------Installation and Setup--------------------------------------
+# Installation and Setup
 1. Clone the repository
  - git clone https://github.com/vipusikan/personal-ai-tutor.git
 2. Navigate to the project folder
@@ -65,13 +64,13 @@ The application will run on:
  - http://localhost:3000
 
 personal-ai-tutor
-│
-├── client                # React frontend
-├── server                # Node.js backend
-├── models                # Machine learning models
-├── database              # MongoDB configuration
-├── routes                # API routes
-└── README.md
+ │
+ ├── client                # React frontend
+ ├── server                # Node.js backend
+ ├── models                # Machine learning models
+ ├── database              # MongoDB configuration
+ ├── routes                # API routes
+ └── README.md
 
 ## Future Improvements
 
