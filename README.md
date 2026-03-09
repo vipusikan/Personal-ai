@@ -29,17 +29,17 @@ The system follows a three-tier architecture:
 + Natural Language Processing (NLP) models
 
 # Technologies Used
-# Frontend
+Frontend
  - React.js
  - HTML
  - CSS
  - JavaScript
-# Backend
+Backend
  - Node.js
  - Express.js
-# Database
+Database
  - MongoDB
-# Machine Learning
+Machine Learning
  - Python
  - Scikit-learn
  - Natural Language Processing techniques
@@ -79,10 +79,10 @@ personal-ai-tutor
 - Mobile application support
 - Advanced analytics for student learning behavior
 
-## Author
-Student Name - SEGAR VIPUSIKAN
-BSc Hons Software Engineering
-Final Year Project
+# Author
+ - Student Name - SEGAR VIPUSIKAN
+ - BSc Hons Software Engineering
+ - Final Year Project
 
 # License
 This project is developed for academic purposes.
