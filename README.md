@@ -23,26 +23,25 @@ The system follows a three-tier architecture:
   - Express.js
 + Database
   - MongoDB
-
-# Machine Learning Components
-+ Python
-+ Natural Language Processing (NLP) models
++ Machine Learning Components
+  - Python
+  - Natural Language Processing (NLP) models
 
 # Technologies Used
-Frontend
- - React.js
- - HTML
- - CSS
- - JavaScript
-Backend
- - Node.js
- - Express.js
-Database
- - MongoDB
-Machine Learning
- - Python
- - Scikit-learn
- - Natural Language Processing techniques
+1. Frontend
+   - React.js
+   - HTML
+   - CSS
+   - JavaScript
+2. Backend
+   - Node.js
+   - Express.js
+3. Database
+   - MongoDB
+4. Machine Learning
+   - Python
+   - Scikit-learn
+   - Natural Language Processing techniques
 
 # Installation and Setup
 1. Clone the repository
