@@ -29,17 +29,17 @@ The system follows a three-tier architecture:
 + Natural Language Processing (NLP) models
 
 # Technologies Used
-Frontend
+# Frontend
  - React.js
  - HTML
  - CSS
  - JavaScript
-Backend
+# Backend
  - Node.js
  - Express.js
-Database
+# Database
  - MongoDB
-Machine Learning
+# Machine Learning
  - Python
  - Scikit-learn
  - Natural Language Processing techniques
